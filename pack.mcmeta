@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": ":3"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "Funnyish",
+      "region": "Poggle",
+      "bidirectional": false
+    }
+  }
+}
