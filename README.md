@@ -1,5 +1,7 @@
 # Super-s-Epic-Minecraft-Resource-Pack-1.19-flavor-
-Hello. If you're reading this, you actually care to read the readme files. Well, I guess you read them if you don't know what to do.
+Hello. If you're reading this, you actually care to read the readme files. Well, I guess you read them if you don't know what to do. 
+
+[IF YOU ARE READING THIS I PROBASBLY DIDNT REMOVE IT OR I DONT KNOW HOW TO ADD A FOLDER HEL P(x212)]
 
 Either way, this is how you put this file in the right place.
 1. Locate the .minecraft file. If you are on Windows, you can easily do this by pressing Windows Key + R and typing in "%appdata%"
